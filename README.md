@@ -23,4 +23,9 @@ After running, project will be deployed inside tomcat localhost on default port 
 
 Open postman or local web browser and input uri http://localhost:8080/countries selecting GET request.
 
+REST API URI's
+http://localhost:8080/countries
+http://localhost:8080/countries/details
+http://localhost:8080/countries/countriesBasedOnCurrency
+
 In order to run Junit tests, click on test package in project explorer and run 'Run tests'
